@@ -1,0 +1,16 @@
+{
+  "name": "practice-express-webserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "northfox",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0"
+  }
+}
